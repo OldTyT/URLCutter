@@ -1,7 +1,9 @@
 name: Generate release-artifacts
 
 on:
-  release:
+  push:
+    tags:
+      - "v*"
 
 # jobs
 jobs:
