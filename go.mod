@@ -1,4 +1,4 @@
-module github.com/OldTyT/url_cutter
+module github.com/OldTyT/URLCutter
 
 go 1.18
 
