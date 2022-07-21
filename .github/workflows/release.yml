@@ -1,9 +1,11 @@
-name: Generate release-artifacts
+# workflow name
+name: release
 
+# on events
 on:
-  push:
-    tags:
-      - "v*"
+  release:
+    types:
+      - created
 
 # jobs 
 jobs:
