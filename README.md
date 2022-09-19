@@ -1,3 +1,7 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/OldTyT/URLCutter)](https://goreportcard.com/report/OldTyT/URLCutter)
+[![GolangCI](https://golangci.com/badges/github.com/OldTyT/URLCutter.svg)](https://golangci.com/r/github.com/OldTyT/URLCutter)
+
+
 # Link shortener.
 
 ---
